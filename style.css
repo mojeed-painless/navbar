@@ -422,6 +422,11 @@ footer {
 
     .menu__btn span.close:hover {
         transform: rotate(90deg);
+    } 
+
+    nav .logo {
+        font-size: 25px;
+        font-weight: 700;
     }
 
     .nav__links {
